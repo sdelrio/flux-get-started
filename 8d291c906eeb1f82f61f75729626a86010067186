@@ -1,0 +1,1 @@
+{"jobID":"b28a3d5c-7def-8935-1e1b-d2a5fefe764d","spec":{"type":"policy","cause":{"Message":"","User":"Sergio R. \u003coftheriver@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.2.*"},"remove":{}}}},"result":null}
